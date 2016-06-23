@@ -1,0 +1,13 @@
+.wrap{
+  background: lightgrey;
+}
+nav li{
+  display: inline;
+}
+h1{
+  font-size: 60px;
+font-family: 'Muli', sans-serif;
+  letter-spacing: -1px;
+
+  text-shadow: 1px 1px 0 #49413F;
+}
